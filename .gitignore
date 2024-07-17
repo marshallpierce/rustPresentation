@@ -1,2 +1,4 @@
 client/storiesclient/target/
+client/storiesclient/.idea
+
 server/storiesserver/target/
